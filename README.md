@@ -1,0 +1,2 @@
+# PluginWithNewFileWizard
+指定プロジェクトにファイルを新規する
